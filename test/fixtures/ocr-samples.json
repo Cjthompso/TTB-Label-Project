@@ -1,0 +1,633 @@
+{
+ "01_old_tom_bourbon_compliant.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "OLD TOM",
+    "height": 49,
+    "confidence": 93
+   },
+   {
+    "text": "DISTILLERY",
+    "height": 33,
+    "confidence": 96
+   },
+   {
+    "text": "Kentucky Straight Bourbon Whiskey",
+    "height": 33,
+    "confidence": 96
+   },
+   {
+    "text": "45% Alc./Vol. (90 Proof)",
+    "height": 27,
+    "confidence": 94
+   },
+   {
+    "text": "750 mL",
+    "height": 22,
+    "confidence": 95
+   },
+   {
+    "text": "Distilled and Bottled by Old Tom Distillery",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "Bardstown, Kentucky",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "02_casa_luna_cabernet_compliant.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "CASA LUNA",
+    "height": 47,
+    "confidence": 94
+   },
+   {
+    "text": "2022",
+    "height": 25,
+    "confidence": 95
+   },
+   {
+    "text": "Napa Valley Cabernet Sauvignon",
+    "height": 31,
+    "confidence": 96
+   },
+   {
+    "text": "Alcohol 14.5% by Volume",
+    "height": 27,
+    "confidence": 96
+   },
+   {
+    "text": "750 mL",
+    "height": 20,
+    "confidence": 94
+   },
+   {
+    "text": "Produced and Bottled by Casa Luna Cellars",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "St. Helena, California",
+    "height": 21,
+    "confidence": 96
+   },
+   {
+    "text": "Contains Sulfites",
+    "height": 18,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "03_sundown_lager_compliant.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "SUNDOWN",
+    "height": 49,
+    "confidence": 96
+   },
+   {
+    "text": "BREWING CO.",
+    "height": 29,
+    "confidence": 95
+   },
+   {
+    "text": "Golden Lager",
+    "height": 38,
+    "confidence": 96
+   },
+   {
+    "text": "5.0% Alc./Vol.",
+    "height": 24,
+    "confidence": 92
+   },
+   {
+    "text": "12 FL OZ (355 mL)",
+    "height": 25,
+    "confidence": 94
+   },
+   {
+    "text": "Brewed and Canned by Sundown Brewing Co.",
+    "height": 23,
+    "confidence": 95
+   },
+   {
+    "text": "Tulsa, Oklahoma",
+    "height": 21,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "04_agave_alto_tequila_import_compliant.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "AGAVE ALTO",
+    "height": 46,
+    "confidence": 96
+   },
+   {
+    "text": "Tequila Blanco",
+    "height": 38,
+    "confidence": 96
+   },
+   {
+    "text": "100% de Agave",
+    "height": 27,
+    "confidence": 96
+   },
+   {
+    "text": "40% Alc./Vol. (80 Proof)",
+    "height": 25,
+    "confidence": 94
+   },
+   {
+    "text": "750 mL",
+    "height": 20,
+    "confidence": 91
+   },
+   {
+    "text": "Product of Mexico",
+    "height": 20,
+    "confidence": 96
+   },
+   {
+    "text": "Imported by Alto Spirits LLC, San Antonio, TX",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "05_harbor_scotch_multiple_violations.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "HARBOR MIST",
+    "height": 49,
+    "confidence": 96
+   },
+   {
+    "text": "Blended Scotch Whisky",
+    "height": 34,
+    "confidence": 96
+   },
+   {
+    "text": "40% Alc./Vol. (86 Proof)",
+    "height": 27,
+    "confidence": 94
+   },
+   {
+    "text": "700 mL",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "Imported by Harbor Spirits Co., New York, NY",
+    "height": 23,
+    "confidence": 95
+   },
+   {
+    "text": "Government Warning: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of health issues. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "06_river_bend_ipa_metric_only.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "RIVER BEND",
+    "height": 47,
+    "confidence": 96
+   },
+   {
+    "text": "BREWING",
+    "height": 30,
+    "confidence": 96
+   },
+   {
+    "text": "India Pale Ale",
+    "height": 29,
+    "confidence": 96
+   },
+   {
+    "text": "6.8% ABV",
+    "height": 20,
+    "confidence": 96
+   },
+   {
+    "text": "355 mL",
+    "height": 20,
+    "confidence": 95
+   },
+   {
+    "text": "Brewed and Canned by River Bend Brewing Co.",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "Asheville, North Carolina",
+    "height": 21,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "07_northwind_vodka_no_warning.png": {
+  "confidence": 94,
+  "lines": [
+   {
+    "text": "NORTHWIND",
+    "height": 49,
+    "confidence": 90
+   },
+   {
+    "text": "Vodka",
+    "height": 33,
+    "confidence": 96
+   },
+   {
+    "text": "Distilled from Grain",
+    "height": 21,
+    "confidence": 96
+   },
+   {
+    "text": "40% Alc./Vol. (80 Proof)",
+    "height": 25,
+    "confidence": 94
+   },
+   {
+    "text": "1L",
+    "height": 20,
+    "confidence": 85
+   },
+   {
+    "text": "Distilled and Bottled by Northwind Spirits",
+    "height": 23,
+    "confidence": 95
+   },
+   {
+    "text": "Duluth, Minnesota",
+    "height": 21,
+    "confidence": 96
+   }
+  ],
+  "headingBold": null
+ },
+ "08_bellwether_gin_needs_review.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "BELLWETHER",
+    "height": 44,
+    "confidence": 90
+   },
+   {
+    "text": "London Dry Gin",
+    "height": 38,
+    "confidence": 96
+   },
+   {
+    "text": "47% Alc./Vol.",
+    "height": 24,
+    "confidence": 92
+   },
+   {
+    "text": "800 mL",
+    "height": 20,
+    "confidence": 95
+   },
+   {
+    "text": "Bellwether Distilling, Portland, Oregon",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": false
+ },
+ "09_sierra_roja_zinfandel_missing_abv.png": {
+  "confidence": 95,
+  "lines": [
+   {
+    "text": "SIERRA ROJA",
+    "height": 57,
+    "confidence": 90
+   },
+   {
+    "text": "Zinfandel",
+    "height": 30,
+    "confidence": 96
+   },
+   {
+    "text": "Dry Creek Valley",
+    "height": 27,
+    "confidence": 96
+   },
+   {
+    "text": "750 mL",
+    "height": 20,
+    "confidence": 95
+   },
+   {
+    "text": "Vinted and Bottled by Sierra Roja Winery",
+    "height": 23,
+    "confidence": 95
+   },
+   {
+    "text": "Healdsburg, California",
+    "height": 23,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery,",
+    "height": 22,
+    "confidence": 96
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 22,
+    "confidence": 96
+   }
+  ],
+  "headingBold": true
+ },
+ "10_old_tom_phone_photo.jpg": {
+  "confidence": 93,
+  "lines": [
+   {
+    "text": "OLD TOM",
+    "height": 38,
+    "confidence": 96
+   },
+   {
+    "text": "DISTILLERY",
+    "height": 25,
+    "confidence": 78
+   },
+   {
+    "text": "Kentucky Straight",
+    "height": 19,
+    "confidence": 96
+   },
+   {
+    "text": "45% Alc./Vol",
+    "height": 18,
+    "confidence": 92
+   },
+   {
+    "text": "750 mL",
+    "height": 17,
+    "confidence": 94
+   },
+   {
+    "text": "Distilled and Bottled by",
+    "height": 14,
+    "confidence": 89
+   },
+   {
+    "text": "Bardstown, Kent",
+    "height": 14,
+    "confidence": 96
+   },
+   {
+    "text": "GOVERNMENT WARNING: (1) According to the Surgeon General",
+    "height": 17,
+    "confidence": 95
+   },
+   {
+    "text": "women should not drink alcoholic beverages during pregnancy",
+    "height": 16,
+    "confidence": 95
+   },
+   {
+    "text": "because of the risk of birth defects. (2) Consumption of alcoholic",
+    "height": 16,
+    "confidence": 96
+   },
+   {
+    "text": "beverages impairs your ability to drive a car or operate machinery.",
+    "height": 16,
+    "confidence": 93
+   },
+   {
+    "text": "and may cause health problems.",
+    "height": 15,
+    "confidence": 95
+   }
+  ],
+  "headingBold": true
+ },
+ "11_old_tom_blurry_photo.jpg": {
+  "confidence": 95,
+  "lines": [],
+  "headingBold": null
+ },
+ "12_not_a_label.png": {
+  "confidence": 93,
+  "lines": [
+   {
+    "text": "Quarterly team lunch: Friday at noon",
+    "height": 35,
+    "confidence": 94
+   }
+  ],
+  "headingBold": null
+ }
+}

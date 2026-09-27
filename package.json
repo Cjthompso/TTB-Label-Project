@@ -1,0 +1,19 @@
+{
+  "name": "ttb-label-checker",
+  "version": "2.0.0",
+  "description": "Checks alcohol beverage label images against TTB mandatory labeling requirements. Runs entirely in the browser; no API keys.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test test/*.test.js",
+    "fixtures": "node scripts/capture-fixtures.js",
+    "vendor": "node scripts/vendor.js"
+  },
+  "devDependencies": {
+    "pngjs": "^7.0.0",
+    "tesseract.js": "6.0.1",
+    "tesseract.js-core": "6.1.2"
+  }
+}

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Label Compliance Check</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <h1>Label compliance check</h1>
+      <p>Upload photos of alcohol beverage labels. Each one is read and checked against TTB mandatory label requirements, and against the application values if you enter them. Images are processed on this device and never uploaded.</p>
+    </div>
+  </header>
+
+  <main class="wrap layout">
+    <form id="form" class="panel" novalidate>
+        <legend>Label images</legend>
+        <label id="drop" class="drop" for="files">
+          <input id="files" type="file" accept="image/jpeg,image/png,image/webp" multiple>
+          <span class="drop-main">Drop images here or choose files</span>
+          <span class="drop-sub">JPEG, PNG or WebP. Up to 20 at once.</span>
+        </label>
+        <ul id="file-list" class="file-list" aria-live="polite"></ul>
+      <fieldset>
+        <legend>Beverage type</legend>
+        <select id="beverage-type" aria-label="Beverage type">
+          <option value="auto">Detect from label</option>
+          <option value="distilled_spirits">Distilled spirits</option>
+          <option value="wine">Wine</option>
+          <option value="malt_beverage">Malt beverage (beer)</option>
+        </select>
+      </fieldset>
+
+      <details class="expected">
+        <summary>Compare with application values <span class="optional">optional</span></summary>
+        <p class="hint">Filled fields are compared with what's printed on every label in this batch. Changing these and checking again is instant; labels aren't re-read.</p>
+        <div class="grid">
+          <label>Brand name<input name="brand_name" placeholder="OLD TOM DISTILLERY"></label>
+          <label>Class/type<input name="class_type" placeholder="Kentucky Straight Bourbon Whiskey"></label>
+          <label>Alcohol content<input name="alcohol_content" placeholder="45% Alc./Vol. (90 Proof)"></label>
+          <label>Net contents<input name="net_contents" placeholder="750 mL"></label>
+          <label class="wide">Name and address<input name="name_address" placeholder="Bottled by Old Tom Distillery, Bardstown, KY"></label>
+          <label>Country of origin<input name="country_of_origin" placeholder="Imports only"></label>
+        </div>
+      </details>
+
+      <button id="submit" type="submit" class="primary" disabled>Check labels</button>
+      <p id="form-error" class="form-error" role="alert" hidden></p>
+    </form>
+
+    <section id="results" class="results" aria-live="polite">
+      <div class="empty">
+        <h2>No labels checked yet</h2>
+        <p>Add one or more label photos, then select <strong>Check label</strong>. For best results, photograph the label straight-on, in focus, and without glare. Sample labels are in the repository's <code>samples/</code> folder.</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="vendor/tesseract/tesseract.min.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
